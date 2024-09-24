@@ -10,7 +10,7 @@ Esta prueba fue desarrollada por Kevin Salcedo Medina, utilizando `Navigator`, `
 
 - **Loading Screen**: Pantalla inicial que muestra una breve animación mientras se realiza la petición de información del clima de la ubicación en la que se encuentra el dispositivo. En esta pantalla también se solicitan los permisos necesarios para el correcto uso de la aplicación.
 
-- **Home Screen**: Primera pantalla donde se muestra la información del clima del día actual.
+- **Home Screen**: Primera pantalla donde se muestra la información del clima del día actual y permite actualizar el clima y/o ubicacion con el boton de refrescar.
 
 - **Forecast Screen**: Pantalla que muestra el pronóstico para los próximos 3 días en la ubicación del dispositivo. Se utilizó la API de "Call 5 day / 3 hour forecast data" de OpenWeather, ya que era la única opción de pronósticos gratuita disponible. Ten en cuenta que los datos obtenidos pueden no ser precisos.
 
